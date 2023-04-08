@@ -76,6 +76,51 @@ Fusheng Wang, **Jianhao Yan\***, Fandong Meng, Jie Zhou
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2020</div><img src='images/multi-unit.pdf' height="100%" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+***Multi-Unit Transformers for Neural Machine Translation***
+
+**Jianhao Yan**, Fandong Meng, Jie Zhou
+
+[Paper](https://aclanthology.org/2020.emnlp-main.77/) [Code](https://github.com/ElliottYan/Multi_Unit_Transformer)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WMT 2020 Winner in Zh-En</div><img src='images/wmt2020.pdf' height="100%" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+***WeChat Neural Machine Translation Systems for WMT20***
+
+Fandong Meng, **Jianhao Yan**, Yijin Liu, Yuan Gao, Xianfeng Zeng, Qinsong Zeng, Peng Li, Ming Chen, Jie Zhou, Sifan Liu, Hao Zhou
+
+[Paper](https://arxiv.org/pdf/2010.00247.pdf)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2020</div><img src='images/sent-control-emnlp22-findings.png' height="100%" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+***A Sentiment-Controllable Topic-to-Essay Generator with Topic Knowledge Graph***
+
+Lin Qiao, **Jianhao Yan**, Fandong Meng, Zhendong Yang, Jie Zhou
+
+[Paper](https://arxiv.org/pdf/2010.05511.pdf)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2019</div><img src='images/temp-re.png' height="100%" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+***Relation Extraction with Temporal Reasoning based on Memory Augmented Distant Supervision***
+
+**Jianhao Yan**, Lin He, Ruqin Huang, Jian Li, Ying Liu
+
+[Paper](https://aclanthology.org/N19-1107.pdf) [Code](https://github.com/ElliottYan/DS_Temporal)
+</div>
+</div>
+
 
 
 <!-- -
