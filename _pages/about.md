@@ -26,8 +26,21 @@ My research interest includes natural language processing, especially language m
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-<!-- -
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2022</div><img height="100%" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Digging Errors in NMT: Evaluating and Understanding Model Errors from Partial Hypothesis Space
+
+**Jianhao Yan**, Chenming Wu, Fandong Meng, Jie Zhou
+
+[Paper](https://aclanthology.org/2022.emnlp-main.827.pdf) [Code](https://github.com/ElliottYan/digging_errors_nmt)
+</div>
+</div>
+
+
+<!-- -
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2022</div><img src='images/TKK.png' height="100%" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
