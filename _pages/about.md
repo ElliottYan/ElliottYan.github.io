@@ -202,9 +202,9 @@ Rotate3D: Representing Relations as Rotations in Three-Dimensional Space for Kno
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 📖 Educations
-- *2022.08 - 2026.08 (now)*, PhD, Westlake University, Hangzhou, China
-- *2016.09 - 2019.06*, Master, Tsinghua University, Beijing, China
-- *2011.09 - 2015.06*, Undergraduate, Beijing University of Posts and Telecommunications, Beijing, China
+- *2022.08 - 2026.08 (now)*, PhD, Westlake University(西湖大学), Hangzhou, China
+- *2016.09 - 2019.06*, Master, Tsinghua University(清华大学), Beijing, China
+- *2011.09 - 2015.06*, Undergraduate, Beijing University of Posts and Telecommunications(北京邮电大学), Beijing, China
 
 <!-- # 📖 Working Experience -->
 
