@@ -31,9 +31,9 @@ My research interest includes natural language processing, especially language m
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2022</div><img src='images/digging_errors.png' height="100%" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Digging Errors in NMT: Evaluating and Understanding Model Errors from Partial Hypothesis Space
+***Digging Errors in NMT: Evaluating and Understanding Model Errors from Partial Hypothesis Space***
 
-**Jianhao Yan**, Chenming Wu, Fandong Meng, Jie Zhou
+**Jianhao Yan\***, Chenming Wu\*, Fandong Meng, Jie Zhou
 
 [Paper](https://aclanthology.org/2022.emnlp-main.827.pdf) [Code](https://github.com/ElliottYan/digging_errors_nmt)
 </div>
