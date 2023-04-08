@@ -27,8 +27,8 @@ author:
   location         : "HangZhou"
   employer         :
   pubmed           : 
-  googlescholar    : ""
-  email            : ""
+  googlescholar    : "https://scholar.google.com.hk/citations?user=pnKLj_wAAAAJ&hl=en"
+  email            : "elliottyan37@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -43,7 +43,6 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : ""
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
