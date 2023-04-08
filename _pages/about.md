@@ -98,7 +98,7 @@ Fandong Meng, **Jianhao Yan**, Yijin Liu, Yuan Gao, Xianfeng Zeng, Qinsong Zeng,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2020</div><img src='images/sent-control-emnlp22-findings.png' height="100%" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2020 Findings</div><img src='images/sent-control-emnlp22-findings.png' height="100%" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ***A Sentiment-Controllable Topic-to-Essay Generator with Topic Knowledge Graph***
