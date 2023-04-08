@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year PhD at WestlakeNLP, supervised by Prof. Yue Zhang. Prior to this, I obtained my master degree at Tsinghua University.
+I am a first-year PhD student at WestlakeNLP, where I am supervised by Professor Yue Zhang. Prior to this, I was a researcher at WeChatAI, Tencent, where I worked with Dr. Fandong Meng.
+I obtained my master's degree in Computer Science from Tsinghua University, where I was supervised by Professor Jian Li and Professor Ying Liu.
+I obtained my bachelor's degree in Computer Science from Beijing University of Posts and Telecommunications.
 
-My research interest includes natural language processing, especially language models, machine translation. 
+My research interest includes natural language generations, especially language models and machine translation. 
 
 
 <!-- # 🔥 News
