@@ -129,7 +129,14 @@ Lin Qiao, **Jianhao Yan**, Fandong Meng, Zhendong Yang, Jie Zhou
 </div>
 </div>
 
-
+<!-- - `ICLR 2023` [Bag of Tricks for Unsupervised Text-to-Speech](https://openreview.net/forum?id=SbR9mpTuBn), **Yi Ren**, Chen Zhang, Shuicheng Yan -->
+<!-- - `NeurIPS 2022` [Dict-TTS: Learning to Pronounce with Prior Dictionary Knowledge for Text-to-Speech](), Ziyue Jiang, Zhe Su, Zhou Zhao, Qian Yang, **Yi Ren**, Jinglin Liu, Zhenhui Ye [![](https://img.shields.io/github/stars/Zain-Jiang/Dict-TTS?style=social&label=Code+Stars)](https://github.com/Zain-Jiang/Dict-TTS)
+- `NeurIPS 2022` [GenerSpeech: Towards Style Transfer for Generalizable Out-Of-Domain Text-to-Speech](), Rongjie Huang, **Yi Ren**, Jinglin Liu, Chenye Cui, Zhou Zhao
+- `NeurIPS 2022` [M4Singer: a Multi-Style, Multi-Singer and Musical Score Provided Mandarin Singing Corpus](), Lichao Zhang, Ruiqi Li, Shoutong Wang, Liqun Deng, Jinglin Liu, **Yi Ren**, Jinzheng He, Rongjie Huang, Jieming Zhu, Xiao Chen, Zhou Zhao, *(Datasets and Benchmarks Track)* [![](https://img.shields.io/github/stars/M4Singer/M4Singer?style=social&label=Dataset+Stars)](https://github.com/M4Singer/M4Singer)
+- ``ACM-MM 2022`` [ProDiff: Progressive Fast Diffusion Model for High-Quality Text-to-Speech](), Rongjie Huang, Zhou Zhao, Huadai Liu, Jinglin Liu, Chenye Cui, **Yi Ren**, [![](https://img.shields.io/github/stars/Rongjiehuang/ProDiff?style=social&label=Code+Stars)](https://github.com/Rongjiehuang/ProDiff)
+- ``ACM-MM 2022`` [SingGAN: Generative Adversarial Network For High-Fidelity Singing Voice Generation](https://arxiv.org/abs/2110.07468), Rongjie Huang, Chenye Cui, Chen Feiayng, **Yi Ren**, Jinglin Liu, Zhou Zhao, Baoxing Huai, Zhefeng Wang
+- ``IJCAI 2022`` [SyntaSpeech: Syntax-Aware Generative Adversarial Text-to-Speech](), Zhenhui Ye, Zhou Zhao, **Yi Ren**, Fei Wu, [![](https://img.shields.io/github/stars/yerfor/SyntaSpeech?style=social&label=Code+Stars)](https://github.com/yerfor/SyntaSpeech) -->
+- ``EMNLP 2022`` <span style="color:red">(Oral)</span> [WeChat Neural Machine Translation Systems for WMT20](), Fandong Meng, **Jianhao Yan**, Yijin Liu, Yuan Gao, Xianfeng Zeng, Qinsong Zeng, Peng Li, Ming Chen, Jie Zhou, Sifan Liu, Hao Zhou [Paper](https://arxiv.org/pdf/2010.05511.pdf)
 
 <!-- -
 
