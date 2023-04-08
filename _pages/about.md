@@ -30,6 +30,19 @@ My research interest includes natural language generations, especially language 
 
 # 📝 Publications 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/dcmbr.pdf' height="100%" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+***DC-MBR: Distributional Cooling for Minimum Bayesian Risk Decoding***
+
+**Jianhao Yan**, Jin Xu, Fandong Meng, Jie Zhou, Yue Zhang
+
+[Paper](https://arxiv.org/pdf/2212.04205)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2022</div><img src='images/digging_errors.png' height="100%" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -40,6 +53,29 @@ My research interest includes natural language generations, especially language 
 [Paper](https://aclanthology.org/2022.emnlp-main.827.pdf) [Code](https://github.com/ElliottYan/digging_errors_nmt)
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2022</div><img src='images/ditto.png' height="100%" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+***Learning to Break the Loop: Analyzing and Mitigating Repetitions for Neural Text Generation***
+
+Jin Xu, Xiaojiang Liu, **Jianhao Yan**, Deng Cai, Huayang Li, Jian Li
+
+[Paper](https://openreview.net/forum?id=sexfswCc7B) [Code](https://github.com/Jxu-Thu/DITTO/)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2021</div><img src='images/selective_kd.png' height="100%" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+***Selective Knowledge Distillation for Neural Machine Translation***
+
+Fusheng Wang, **Jianhao Yan\***, Fandong Meng, Jie Zhou
+
+[Paper](https://aclanthology.org/2021.acl-long.504/) [Code](https://github.com/LeslieOverfitting/selective_distillation)
+</div>
+</div>
+
 
 
 <!-- -
