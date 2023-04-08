@@ -34,7 +34,7 @@ My research interest includes natural language generations, especially language 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/dcmbr.png' height="100%" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-***DC-MBR: Distributional Cooling for Minimum Bayesian Risk Decoding***
+*DC-MBR: Distributional Cooling for Minimum Bayesian Risk Decoding*
 
 **Jianhao Yan**, Jin Xu, Fandong Meng, Jie Zhou, Yue Zhang
 
@@ -46,7 +46,7 @@ My research interest includes natural language generations, especially language 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2022</div><img src='images/digging_errors.png' height="100%" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-***Digging Errors in NMT: Evaluating and Understanding Model Errors from Partial Hypothesis Space***
+*Digging Errors in NMT: Evaluating and Understanding Model Errors from Partial Hypothesis Space*
 
 **Jianhao Yan\***, Chenming Wu\*, Fandong Meng, Jie Zhou
 
@@ -57,7 +57,7 @@ My research interest includes natural language generations, especially language 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2022</div><img src='images/ditto.png' height="100%" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-***Learning to Break the Loop: Analyzing and Mitigating Repetitions for Neural Text Generation***
+*Learning to Break the Loop: Analyzing and Mitigating Repetitions for Neural Text Generation*
 
 Jin Xu, Xiaojiang Liu, **Jianhao Yan**, Deng Cai, Huayang Li, Jian Li
 
@@ -68,7 +68,7 @@ Jin Xu, Xiaojiang Liu, **Jianhao Yan**, Deng Cai, Huayang Li, Jian Li
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2021</div><img src='images/selective_kd.png' height="100%" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-***Selective Knowledge Distillation for Neural Machine Translation***
+*Selective Knowledge Distillation for Neural Machine Translation*
 
 Fusheng Wang, **Jianhao Yan\***, Fandong Meng, Jie Zhou
 
@@ -79,7 +79,7 @@ Fusheng Wang, **Jianhao Yan\***, Fandong Meng, Jie Zhou
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2020</div><img src='images/multi-unit.png' height="100%" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-***Multi-Unit Transformers for Neural Machine Translation***
+*Multi-Unit Transformers for Neural Machine Translation*
 
 **Jianhao Yan**, Fandong Meng, Jie Zhou
 
@@ -90,7 +90,7 @@ Fusheng Wang, **Jianhao Yan\***, Fandong Meng, Jie Zhou
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WMT 2020 Winner in Zh-En</div><img src='images/wmt2020.png' height="100%" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-***WeChat Neural Machine Translation Systems for WMT20***
+*WeChat Neural Machine Translation Systems for WMT20*
 
 Fandong Meng, **Jianhao Yan**, Yijin Liu, Yuan Gao, Xianfeng Zeng, Qinsong Zeng, Peng Li, Ming Chen, Jie Zhou, Sifan Liu, Hao Zhou
 
@@ -101,7 +101,7 @@ Fandong Meng, **Jianhao Yan**, Yijin Liu, Yuan Gao, Xianfeng Zeng, Qinsong Zeng,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2020 Findings</div><img src='images/sent-control-emnlp22-findings.png' height="100%" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-***A Sentiment-Controllable Topic-to-Essay Generator with Topic Knowledge Graph***
+*A Sentiment-Controllable Topic-to-Essay Generator with Topic Knowledge Graph*
 
 Lin Qiao, **Jianhao Yan**, Fandong Meng, Zhendong Yang, Jie Zhou
 
@@ -113,7 +113,7 @@ Lin Qiao, **Jianhao Yan**, Fandong Meng, Zhendong Yang, Jie Zhou
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2019</div><img src='images/temp-re.png' height="100%" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-***Relation Extraction with Temporal Reasoning based on Memory Augmented Distant Supervision***
+*Relation Extraction with Temporal Reasoning based on Memory Augmented Distant Supervision*
 
 **Jianhao Yan**, Lin He, Ruqin Huang, Jian Li, Ying Liu
 
