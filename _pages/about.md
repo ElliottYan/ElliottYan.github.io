@@ -70,7 +70,7 @@ Jin Xu, Xiaojiang Liu, **Jianhao Yan**, Deng Cai, Huayang Li, Jian Li
 
 *Selective Knowledge Distillation for Neural Machine Translation*
 
-Fusheng Wang, **Jianhao Yan\***, Fandong Meng, Jie Zhou
+Fusheng Wang\*, **Jianhao Yan\***, Fandong Meng, Jie Zhou
 
 [Paper](https://aclanthology.org/2021.acl-long.504/) [Code](https://github.com/LeslieOverfitting/selective_distillation)
 </div>
