@@ -31,7 +31,7 @@ My research interest includes natural language generations, especially language 
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/dcmbr.pdf' height="100%" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/dcmbr.png' height="100%" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ***DC-MBR: Distributional Cooling for Minimum Bayesian Risk Decoding***
@@ -76,7 +76,7 @@ Fusheng Wang, **Jianhao Yan\***, Fandong Meng, Jie Zhou
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2020</div><img src='images/multi-unit.pdf' height="100%" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2020</div><img src='images/multi-unit.png' height="100%" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ***Multi-Unit Transformers for Neural Machine Translation***
@@ -87,7 +87,7 @@ Fusheng Wang, **Jianhao Yan\***, Fandong Meng, Jie Zhou
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WMT 2020 Winner in Zh-En</div><img src='images/wmt2020.pdf' height="100%" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WMT 2020 Winner in Zh-En</div><img src='images/wmt2020.png' height="100%" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ***WeChat Neural Machine Translation Systems for WMT20***
