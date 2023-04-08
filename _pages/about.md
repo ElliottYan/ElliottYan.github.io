@@ -17,15 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year PhD at [CUHK text mining group](https://www1.se.cuhk.edu.hk/~textmine/), supervised by Prof. Lam Wai. Prior to this, I obtained my master degree at Harbin Institute of Technology.
+I am a first-year PhD at WestlakeNLP, supervised by Prof. Yue Zhang. Prior to this, I obtained my master degree at Tsinghua University.
 
-My research interest includes natural language processing and information retrieval, especially language models, semantic parsing, and conversational systems. 
+My research interest includes natural language processing, especially language models, machine translation. 
 
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
+<!-- -
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2022</div><img src='images/TKK.png' height="100%" width="100%"></div></div>
@@ -80,25 +81,28 @@ Rotate3D: Representing Relations as Rotations in Three-Dimensional Space for Kno
 **Chang Gao**, Chengjie Sun, Lili Shan, Lei Lin, Mingjiang Wang
 
 
-
 [Paper](https://dl.acm.org/doi/10.1145/3340531.3411889) [Code](https://github.com/gao-xiao-bai/Rotate3D)
 </div>
 </div>
+-->
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 📖 Educations
-- *2020.08 - 2024.08 (now)*, PhD, The Chinese University of Hong Kong, Hong Kong, China
-- *2018.09 - 2020.06*, Master, Harbin Institute of Technology, Harbin, China
-- *2014.09 - 2018.06*, Undergraduate, Harbin Institute of Technology, Weihai, China
+- *2022.08 - 2026.08 (now)*, PhD, Westlake University, Hangzhou, China
+- *2016.09 - 2019.06*, Master, Tsinghua University, Beijing, China
+- *2011.09 - 2015.06*, Undergraduate, Beijing University of Posts and Telecommunications, Beijing, China
 
+<!-- # 📖 Working Experience -->
+
+<!-- 
 # 🎖 Honors and Awards
 - *2020.09* ACM SIGIR Student Travel Grant 
 - *2020.06* Outstanding Master Thesis Award
 - *2018.06* Outstanding Graduate Award
 - *2017.11* National Scholarship
 - *2016.11* National Scholarship
-
+-->
 
 
 
@@ -106,5 +110,5 @@ Rotate3D: Representing Relations as Rotations in Three-Dimensional Space for Kno
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
  -->
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+# 💻 Working Experience
+- *2019.07 - 2022.08*, Researcher, Wechat AI, China. 
