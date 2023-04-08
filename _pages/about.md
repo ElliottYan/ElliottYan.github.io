@@ -31,7 +31,8 @@ My research interest includes natural language generations, especially language 
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/dcmbr.png' height="100%" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/dcmbr.png' height="100%" width="100%"></div></div> -->
 <div class='paper-box-text' markdown="1">
 
 *DC-MBR: Distributional Cooling for Minimum Bayesian Risk Decoding*
@@ -43,7 +44,8 @@ My research interest includes natural language generations, especially language 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2022</div><img src='images/digging_errors.png' height="100%" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2022</div></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2022</div><img src='images/digging_errors.png' height="100%" width="100%"></div></div> -->
 <div class='paper-box-text' markdown="1">
 
 *Digging Errors in NMT: Evaluating and Understanding Model Errors from Partial Hypothesis Space*
@@ -54,7 +56,8 @@ My research interest includes natural language generations, especially language 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2022</div><img src='images/ditto.png' height="100%" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2022</div></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2022</div><img src='images/ditto.png' height="100%" width="100%"></div></div> -->
 <div class='paper-box-text' markdown="1">
 
 *Learning to Break the Loop: Analyzing and Mitigating Repetitions for Neural Text Generation*
@@ -65,7 +68,8 @@ Jin Xu, Xiaojiang Liu, **Jianhao Yan**, Deng Cai, Huayang Li, Jian Li
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2021</div><img src='images/selective_kd.png' height="100%" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2021</div></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2021</div><img src='images/selective_kd.png' height="100%" width="100%"></div></div> -->
 <div class='paper-box-text' markdown="1">
 
 *Selective Knowledge Distillation for Neural Machine Translation*
@@ -76,7 +80,8 @@ Fusheng Wang\*, **Jianhao Yan\***, Fandong Meng, Jie Zhou
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2020</div><img src='images/multi-unit.png' height="100%" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2020</div></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2020</div><img src='images/multi-unit.png' height="100%" width="100%"></div></div> -->
 <div class='paper-box-text' markdown="1">
 
 *Multi-Unit Transformers for Neural Machine Translation*
@@ -87,7 +92,8 @@ Fusheng Wang\*, **Jianhao Yan\***, Fandong Meng, Jie Zhou
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WMT 2020 Winner in Zh-En</div><img src='images/wmt2020.png' height="100%" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WMT 2020 Winner in Zh-En</div><img src='images/wmt2020.png' height="100%" width="100%"></div></div> -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WMT 2020 Winner in Zh-En</div></div></div>
 <div class='paper-box-text' markdown="1">
 
 *WeChat Neural Machine Translation Systems for WMT20*
@@ -98,7 +104,8 @@ Fandong Meng, **Jianhao Yan**, Yijin Liu, Yuan Gao, Xianfeng Zeng, Qinsong Zeng,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2020 Findings</div><img src='images/sent-control-emnlp22-findings.png' height="100%" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2020 Findings</div><img src='images/sent-control-emnlp22-findings.png' height="100%" width="100%"></div></div> -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2020 Findings</div></div></div>
 <div class='paper-box-text' markdown="1">
 
 *A Sentiment-Controllable Topic-to-Essay Generator with Topic Knowledge Graph*
@@ -110,7 +117,8 @@ Lin Qiao, **Jianhao Yan**, Fandong Meng, Zhendong Yang, Jie Zhou
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2019</div><img src='images/temp-re.png' height="100%" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2019</div><img src='images/temp-re.png' height="100%" width="100%"></div></div> -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2019</div></div></div>
 <div class='paper-box-text' markdown="1">
 
 *Relation Extraction with Temporal Reasoning based on Memory Augmented Distant Supervision*
